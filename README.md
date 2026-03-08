@@ -1,4 +1,4 @@
-# 💰 AI Financial Advisor
+# AI Financial Advisor
 
 An *AI-powered financial planning dashboard* that analyzes financial data, visualizes financial health, and generates personalized financial advice using **Google Gemini AI**.
 
@@ -6,7 +6,7 @@ The system helps users understand their **income, expenses, savings, and debts**
 
 ---
 
-# 🎥 Project Demo
+# Project Demo
 
 Watch the complete project explanation and demo video.
 
